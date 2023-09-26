@@ -8,6 +8,7 @@
 
 ## Codestack
 - Frontend: React
+- Styling: TailwindCSS
 - Backend: Fastapi
 - Database: MongoDB
 - Websockets/Connectivity: Socket.io (https://github.com/pyropy/fastapi-socketio)
