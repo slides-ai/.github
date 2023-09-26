@@ -1,12 +1,18 @@
-## Hi there 👋
+# Slides ai/markdown (name pending)
 
-<!--
+## Repos 
+- Frontend: Handles and manages the frontend
+- Backend: Handles and manages the backend
+- Database: Allows local database setup and pushing
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Codestack
+- Frontend: React
+- Backend: Fastapi
+- Database: MongoDB
+- Websockets/Connectivity: Socket.io (https://github.com/pyropy/fastapi-socketio)
+- Components lib: Headless.ui
+- Auth: auth0 (third party google and microsoft)
+- Hosting: (Cloudflare or AWS)
+- Infra: AWS (probably)
+- Storage: AWS S3
+  
