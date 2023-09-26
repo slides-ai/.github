@@ -5,6 +5,7 @@
 - Backend: Handles and manages the backend
 - Database: Allows local database setup and pushing
 
+
 ## Codestack
 - Frontend: React
 - Backend: Fastapi
