@@ -16,7 +16,7 @@
 - Websockets/Connectivity: Socket.io (https://github.com/pyropy/fastapi-socketio)
 - Components lib: Headless.ui
 - Auth: auth0 or spin own auth (third party google and microsoft)
-- Hosting: (Cloudflare or AWS)
-- Infra: AWS (probably)
+- Hosting: Railway
+- Infra: Railway
 - Storage: AWS S3
   
